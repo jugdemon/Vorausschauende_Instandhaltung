@@ -1,3 +1,3 @@
 # Vorausschauende Instandhaltung
 
-Ein Tuorial Notizbuch basierend auf https://github.com/JanderHungrige/PumpSensor.
+Ein Tutorial Notizbuch basierend auf https://github.com/JanderHungrige/PumpSensor.
